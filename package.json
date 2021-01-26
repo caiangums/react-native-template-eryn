@@ -1,0 +1,30 @@
+
+{
+  "name": "react-native-template-eryn",
+  "version": "1.0.0",
+  "description": "Eryn is a known Forest for Starting your React Native Project with foundation",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiangums/react-native-template-eryn.git"
+  },
+  "keywords": [
+    "react-native",
+    "template",
+    "boilerplate",
+    "redux",
+    "react-navigation"
+  ],
+  "author": "Ilê Caian <ile.caian@gmail.com> (@caiangums)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiangums/react-native-template-eryn/issues"
+  },
+  "homepage": "https://github.com/caiangums/react-native-template-eryn#readme"
+}
