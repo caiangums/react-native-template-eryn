@@ -6,7 +6,7 @@
   <a href="https://caiangums.github.io/react-native-template-eryn/">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/caiangums/react-native-template-typescript/blob/main/LICENSE">
+  <a href="https://github.com/caiangums/react-native-template-eryn/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>

@@ -6,7 +6,7 @@
   <a href="https://caiangums.github.io/react-native-template-eryn/">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/caiangums/react-native-template-typescript/blob/main/LICENSE">
+  <a href="https://github.com/caiangums/react-native-template-eryn/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
@@ -56,8 +56,8 @@ For more info about future of the project and next steps, check the [Future](/fu
 
 ## Contributing
 
-Please read [CONTRIBUTING](https://github.com/react-native-template-eryn/main/CONTRIBUTING) for details on code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING](https://github.com/react-native-template-eryn/blob/main/CONTRIBUTING) for details on code of conduct and the process for submitting pull requests.
 
 ## License
 
-[MIT License](https://github.com/react-native-template-eryn/main/LICENSE) © [Ilê Caian](https://github.com/caiangums)
+[MIT License](https://github.com/react-native-template-eryn/blob/main/LICENSE) © [Ilê Caian](https://github.com/caiangums)
