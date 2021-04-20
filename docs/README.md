@@ -27,7 +27,7 @@ Make sure you checked out about the [used libraries](/libs) and the [architectur
 
 ## Goals
 
-- _No usage of Expo_
+- _No usage of Expo CLI_
 - Basic Configuration with common used libs
 - Basic Architecture Structure
 - Support extensions: libs, architectures or personal choices
