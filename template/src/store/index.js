@@ -1,11 +1,11 @@
-import {createStore, applyMiddleware, combineReducers} from 'redux';
+import { createStore, applyMiddleware, combineReducers } from 'redux';
 import thunkMiddleware from 'redux-thunk';
 
 // List Project Middlewares
-import {logger as loggerMiddleware} from '_middlewares/logger';
+import { logger as loggerMiddleware } from '_middlewares/logger';
 
 // Place your Reducers
-import {userReducer} from './user';
+import { userReducer } from './user';
 
 // Add Reducers to Root Reducer
 const rootReducer = combineReducers({

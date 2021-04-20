@@ -1,7 +1,7 @@
 import React from 'react';
-import {Text as RNText, StyleSheet} from 'react-native';
+import { Text as RNText, StyleSheet } from 'react-native';
 
-function Text({style, heading, bold, center, children}) {
+function Text({ style, heading, bold, center, children }) {
   const combinedStyles = [
     heading && styles.heading,
     bold && styles.bold,

@@ -5,9 +5,9 @@
 
 import 'react-native-gesture-handler';
 import React from 'react';
-import {Provider} from 'react-redux';
+import { Provider } from 'react-redux';
 
-import {AppNavigator} from '_navigators';
+import { AppNavigator } from '_navigators';
 import store from '_store';
 
 const App = () => (

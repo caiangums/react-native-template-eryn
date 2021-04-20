@@ -1,12 +1,12 @@
 import React from 'react';
-import {NavigationContainer} from '@react-navigation/native';
-import {createStackNavigator} from '@react-navigation/stack';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
 
-import {WelcomeScreen, StartScreen} from '_screens';
+import { WelcomeScreen, StartScreen } from '_screens';
 
 const RootStack = createStackNavigator();
 
-const DEFAULT_OPTIONS = {gestureEnabled: false};
+const DEFAULT_OPTIONS = { gestureEnabled: false };
 
 function AppNavigator(props) {
   return (

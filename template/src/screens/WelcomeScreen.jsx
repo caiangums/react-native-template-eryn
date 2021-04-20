@@ -1,11 +1,11 @@
 import React from 'react';
-import {StyleSheet, View} from 'react-native';
-import {SafeAreaView} from 'react-native-safe-area-context';
-import {connect} from 'react-redux';
+import { StyleSheet, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { connect } from 'react-redux';
 
-import {Text, ErynLogo} from '_components';
+import { Text, ErynLogo } from '_components';
 
-function StartScreen({name}) {
+function StartScreen({ name }) {
   return (
     <SafeAreaView>
       <ErynLogo style={styles.image} />

@@ -1,9 +1,9 @@
-import React, {useEffect} from 'react';
+import React, { useEffect } from 'react';
 
-import {Loader} from '_components';
-import {wait} from '_utils/functions';
+import { Loader } from '_components';
+import { wait } from '_utils/functions';
 
-function StartScreen({navigation}) {
+function StartScreen({ navigation }) {
   useEffect(() => {
     const loaded = async () => {
       await wait(2);

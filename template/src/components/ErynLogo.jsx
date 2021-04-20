@@ -1,9 +1,9 @@
 import React from 'react';
-import {Image, StyleSheet} from 'react-native';
+import { Image, StyleSheet } from 'react-native';
 
 import erynImage from '_assets/eryn.jpg';
 
-function ErynLogo({style}) {
+function ErynLogo({ style }) {
   return <Image style={[styles.image, style]} source={erynImage} />;
 }
 

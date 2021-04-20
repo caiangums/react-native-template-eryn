@@ -1,8 +1,8 @@
 import React from 'react';
-import {View, ActivityIndicator, StyleSheet} from 'react-native';
-import {SafeAreaView} from 'react-native-safe-area-context';
+import { View, ActivityIndicator, StyleSheet } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
-import {SCREEN_WIDTH} from '_constants/screen';
+import { SCREEN_WIDTH } from '_constants/screen';
 
 function Loader() {
   return (
