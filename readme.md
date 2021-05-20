@@ -20,7 +20,7 @@
 When starting your [React Native project](https://reactnative.dev/), use this project as template such as:
 
 ```sh
-npx react-native MyApp --template react-native-template-eryn
+npx react-native init MyApp --template react-native-template-eryn
 ```
 
 Make sure you checked out about the [used libraries](https://caiangums.github.io/react-native-template-eryn/#/libs) and the [architectural choices](https://caiangums.github.io/react-native-template-eryn/#/usage)
