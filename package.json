@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-eryn",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Eryn is a known Forest for Starting your React Native Project with foundation",
   "scripts": {
     "test": "exit 0"
